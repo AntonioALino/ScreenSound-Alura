@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\Alura\Alura\bin\Debug\net6.0\Alura.exe
+C:\Users\anton\source\repos\Alura\Alura\bin\Debug\net6.0\Alura.deps.json
+C:\Users\anton\source\repos\Alura\Alura\bin\Debug\net6.0\Alura.runtimeconfig.json
+C:\Users\anton\source\repos\Alura\Alura\bin\Debug\net6.0\Alura.dll
+C:\Users\anton\source\repos\Alura\Alura\bin\Debug\net6.0\Alura.pdb
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\Alura.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\Alura.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\Alura.AssemblyInfo.cs
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\Alura.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\Alura.dll
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\refint\Alura.dll
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\Alura.pdb
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\Alura.genruntimeconfig.cache
+C:\Users\anton\source\repos\Alura\Alura\obj\Debug\net6.0\ref\Alura.dll
